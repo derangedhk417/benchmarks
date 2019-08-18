@@ -1,0 +1,6 @@
+i9-9960X Results:
+	All Results Using FMA Instructions
+	Data Was Sized to Fit in L1 Cache
+	Peak Per Core GFlops = 39.3875 @ 16 Cores (629.021 GFlops Total)
+	Peak Total GFlops    = 722.538 @ 32 Cores
+ 

@@ -1,1 +1,2 @@
 python3 analyze.py i7-6700K-results/ 25
+icc i9-9960X.cpp -o i9-9960X -O3 -lpthread
